@@ -4,6 +4,8 @@ An interactive AirPods concept slider built as a frontend showcase project.
 
 The experience combines fluid product transitions, responsive layouts and detailed product views in a clean, Apple-inspired interface.
 
+![AirPods Slider Preview](./public/social-preview.png)
+
 > This is an independent concept project created for educational and portfolio purposes. It is not affiliated with, endorsed by, or associated with Apple Inc. Product names, variants and specifications shown in the project are fictional.
 
 ## Live Demo
